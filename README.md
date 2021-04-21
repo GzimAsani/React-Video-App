@@ -1,4 +1,4 @@
-# PICS GENERATOR
+# Video App
 
 
 - Simple project build with react and external youtube API. This app is basically similar to youtube which allows you to search and choose the videos you want to play. The main reason for doing this app was to show my understanding of react basic skills on how to work with function/classes/external api/ passing props and callbacks from child to parent
